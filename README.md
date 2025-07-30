@@ -1,4 +1,5 @@
 # React + Vite
+a zego cloud app help in callling and help in audio video call and a help in  conducting meeting and you  can easily share messages etc
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
